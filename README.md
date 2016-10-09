@@ -11,3 +11,5 @@ Once the data is loaded to Gephi, a graph of 447 nodes and 101549 edges is creat
 
 ## And the winner is...
 Jeff Miller! As we can see in the graph, Jeff Miller is the biggest node and more central also (color intensity) that means that he is a proactive lawmaker and lead most of the laws, but also means that maybe that kind of leadership is alligned with its party, since he is present in the centrality of the lawmaking which places him in the sponsor and cosponsorship of many laws. In fact, thats what states his Wikipedia entry in the political position: “Miller typically votes along Republican party lines.” https://en.wikipedia.org/wiki/Jeff_Miller_(Florida_politician).
+
+![alt text](https://github.com/mrquant/UsCongressInfluenceGraph/blob/master/graph/congress_graph.png "Congress Graph")
