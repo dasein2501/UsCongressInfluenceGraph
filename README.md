@@ -1,4 +1,4 @@
-# UsCongressInfluenceGraph
+# Us Congress Influence Graph.
 
 Being a huge fan of House of Cards Netflix Original Series, I decided to look for the “real” Frank Underwood in the 113o US Congress. The main idea is to create a graph based on the congressmen in the House of Representatives (Congress). This graph has as a nodes the congressmen that has sponsored or cosponsored a bill, and the relationaships between the nodes are congressmen that have cosponsored the law, that is, if one congressmen sponsor a law and that law is cosponsored by other congressmen, that congressmen are followers of the congressmen that sponsored the law, which becomes our leader.
 For this purpouse, I have taken the data of bills in the house of representatives for the 113o congress of the United States of America (https://github.com/unitedstates/congress/wiki/bills).
